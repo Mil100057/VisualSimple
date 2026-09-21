@@ -1,0 +1,8 @@
+name: VisualSimple
+version: 1.0
+features:
+  - tabs
+  - images
+author:
+  company: Precellence Software
+name: duplicate

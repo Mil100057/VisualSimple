@@ -1,0 +1,6 @@
+{
+  "name": "VisualSimple",
+  "version": 1.0,
+  "features": ["tabs", "images", "validator",],
+  "author": {"company": "Precellence Software"}
+}
